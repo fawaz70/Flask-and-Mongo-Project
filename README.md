@@ -4,8 +4,8 @@ The code provided is the backend for the problem as requested.
 The code uses FastApi (Flask) for REST purposes.
 
 The code can run after install all the requirements as provided in the folder.
-The requirements can be installed using pip install -r requirements.txt
-Another requirement would be to have a MongoDB installed on the PC with the connection mongodb://127.0.0.1:27017/ as shown in main.py
+The requirements can be installed using pip install -r requirements.txt.
+Another requirement would be to have a MongoDB installed on the PC with the connection mongodb://127.0.0.1:27017/ as shown in main.py.
 
 Simply run uvicorn main:app --reload in the folder with main.py to turn on the server
 
