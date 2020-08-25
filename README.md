@@ -11,7 +11,7 @@ Simply run uvicorn main:app --reload in the folder with main.py to turn on the s
 
 Then open up your browser and go to http://127.0.0.1:8000
 
-There you will see the documentation usng FastApi. The POST and GET methods can be tested there
+There you will see the documentation using FastApi. The POST and GET methods can be tested there
 
 ## Follow Up Question
 The way to make this cloud scalable would be to have this same code run but on multiple different servers. Since
